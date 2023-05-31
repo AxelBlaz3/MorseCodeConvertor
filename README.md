@@ -1,16 +1,20 @@
-# morse_text
+# Morse Code Convertor
 
-A new Flutter project.
+A simple flutter application to convert a given morse code to plain text.
 
-## Getting Started
+### Features
+- Uses `provider` for state management.
+- Designed with `Material You` for pleasing UI experience.
+- Supports adaptive display sizes.
 
-This project is a starting point for a Flutter application.
+### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+#### Running on Large screen (Nothing entered)
+![Running on Large screen (Nothing entered)](screenshots/large_screen_hello.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Running on Large screen (HelloWord Morsecode)
+![Alt text](screenshots/large_screen_nothing.png?raw=true "Running on Large screen")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Running on Small screen (HelloWorld Morsecode)
+![Alt text](screenshots/small_screen_hello.png?raw=true "Running on small screen")
+
