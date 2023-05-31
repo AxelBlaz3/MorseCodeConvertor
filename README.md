@@ -22,7 +22,7 @@ A simple flutter application to convert a given morse code to plain text.
 ![Alt text](screenshots/large_screen_nothing_light.png?raw=true "Running on Large screen")
 
 #### Running on Small screen - Light theme (HelloWorld Morsecode)
-![Alt text](screenshots/small_screen_hello.png?raw=true "Running on small screen")
+![Alt text](screenshots/small_screen_hello_light.png?raw=true "Running on small screen")
 
 #### Video demo
 ![Click here to download video](screenshots/video_sample.mp4?raw=true "Video demonstrating the app")
