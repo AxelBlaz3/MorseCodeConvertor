@@ -25,5 +25,5 @@ A simple flutter application to convert a given morse code to plain text.
 ![Alt text](screenshots/small_screen_hello.png?raw=true "Running on small screen")
 
 #### Video demo
-![Alt text](screenshots/video_sample.mp4?raw=true "Video demonstrating the app")
+![Click here to download video](screenshots/video_sample.mp4?raw=true "Video demonstrating the app")
 
